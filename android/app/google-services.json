@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "472808421251",
+    "firebase_url": "https://smart-baraban.firebaseio.com",
+    "project_id": "smart-baraban",
+    "storage_bucket": "smart-baraban.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472808421251:android:a3cde08621925d69",
+        "android_client_info": {
+          "package_name": "com.example.arduino_drum_emulator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472808421251-4pe1n1dbjc67mocv478k94vha2uveif3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEAeLoQeWD9fOTCqwjePdJNg-SMRqvSr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472808421251-4pe1n1dbjc67mocv478k94vha2uveif3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472808421251:android:9bc1f1c7fb8743d5",
+        "android_client_info": {
+          "package_name": "com.example.smart_house"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472808421251-5r464i2nhlrjd9vmt71odjsa3tu3i1gp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smart_house",
+            "certificate_hash": "509cb24b5440f804fd18ae7ea907f4df2bb79190"
+          }
+        },
+        {
+          "client_id": "472808421251-4pe1n1dbjc67mocv478k94vha2uveif3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEAeLoQeWD9fOTCqwjePdJNg-SMRqvSr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472808421251-4pe1n1dbjc67mocv478k94vha2uveif3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
